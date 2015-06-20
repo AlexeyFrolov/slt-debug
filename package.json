@@ -1,0 +1,15 @@
+{
+  "name": "slt-debug",
+  "version": "0.0.1",
+  "description": "Debugging tools for Slots",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AlexeyFrolov/slt-debug.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Frolov <frol.rage@gmail.com>",
+  "license": "ISC"
+}
